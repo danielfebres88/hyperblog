@@ -8,8 +8,16 @@
 font-family: Arial, Helvetica, sans-serif;
 color: brown;
 background-color: coral;
+border: 15px;
 }
 
 h1 {
 color: deeppink;
+border: 5px solid black;
+padding: 2em black;
+text-align: center;
+}
+button {
+  color: aquamarine;
+  background-color: black;
 }
