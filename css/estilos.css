@@ -7,11 +7,7 @@
   body {
 font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
 color: brown;
-<<<<<<< HEAD
 background-color: aliceblue;
-=======
-background-color: rgb(179, 165, 160);
->>>>>>> cabecera
 border: 15px;
 }
 
@@ -39,4 +35,8 @@ text-align: center;
 button {
   color: aquamarine;
   background-color: black;
+}
+
+img {
+padding: 4px;
 }
